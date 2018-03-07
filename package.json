@@ -1,0 +1,22 @@
+{
+  "name": "sucurity",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./www.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "~1.17.2",
+    "express": "~4.15.3",
+    "express-flash": "0.0.2",
+    "express-handlebars": "~3.0.0",
+    "express-session": "^1.15.3",
+    "handlebars": "~4.0.10",
+    "mongodb": "~2.2.29",
+    "monk": "~6.0.0",
+    "morgan": "~1.8.2",
+    "package.json": "^2.0.1",
+    "request": "^2.81.0"
+  }
+}
